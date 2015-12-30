@@ -9,6 +9,6 @@
 #import "CCEffectOutline.h"
 #import "EffectsManager.h"
 
-@interface CCBPEffectOutline : CCEffectOutline<EffectProtocol>
+@interface CCBPEffectOutline //: CCEffectOutline<EffectProtocol>
 
 @end
