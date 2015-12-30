@@ -8777,7 +8777,7 @@
 				PRODUCT_NAME = "$(SB_PRODUCT_NAME)";
 				PROVISIONING_PROFILE = "";
 				SBPRO_PRIVATE_KEY = "fake_private_key___________________________=";
-				SB_VERSION = 1.2.0;
+				SB_VERSION = 1.5.0;
 				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
@@ -8822,7 +8822,7 @@
 				PRODUCT_NAME = "$(SB_PRODUCT_NAME)";
 				PROVISIONING_PROFILE = "";
 				SBPRO_PRIVATE_KEY = "fake_private_key___________________________=";
-				SB_VERSION = 1.2.0;
+				SB_VERSION = 1.5.0;
 				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
@@ -8979,7 +8979,7 @@
 				PRODUCT_NAME = "$(SB_PRODUCT_NAME)";
 				PROVISIONING_PROFILE = "";
 				SBPRO_PRIVATE_KEY = "fake_private_key___________________________=";
-				SB_VERSION = 1.2.0;
+				SB_VERSION = 1.5.0;
 				SDKROOT = macosx;
 				WRAPPER_EXTENSION = app;
 			};
